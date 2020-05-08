@@ -21,6 +21,11 @@ public class Key {
     public static final String WRITE_MODE = "writeMode";
     // must have
     public static final String FIELD_DELIMITER = "fieldDelimiter";
+    // must have
+    public static final String FIELD_QUOTE = "fieldQuote";
+    // must have
+    public static final String FIELD_ESCAPE = "fieldEscape";
+
     // not must, default UTF-8
     public static final String ENCODING = "encoding";
     // not must, default no compress
